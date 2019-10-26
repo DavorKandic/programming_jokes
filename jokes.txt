@@ -21,4 +21,10 @@ Sexy documentation
 -What do you mean by that?!
 -Well, when it's good, it's very good... But, when it's bad - it's better than nothing.
 
+Father-to-son-moment
+ Programmer's son asks his father:
+ -Dad, why do the sun rise on the east and set on the west?
+ Father:
+ -It works? Don't touch it!
+
 
