@@ -26,5 +26,12 @@ Father-to-son-moment
  -Dad, why do the sun rise on the east and set on the west?
  Father:
  -It works? Don't touch it!
+ 
+Python Haiku
+ -Roses are Red
+ -Violets are Blue
+ 
+     Unexpected Indent
+     In line 22
 
 
