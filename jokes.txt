@@ -1,0 +1,24 @@
+Lightbulb v1.0
+
+-How many programmers does it take to change a lightbulb?
+-None, because it is a HARDWARE problem.
+
+Lightbulb v1.1
+-How many Python programmers does it take to change a lightbulb?
+-'None', because it is a Python keyword.
+
+Lightbulb v1.1
+-How many Prolog programmers does it take to change a lightbulb?
+-False.
+
+Lightbulb v17.0
+-How many C++ programmers does it take to change a lightbulb?
+-Always one more than amount of C programmers for same task.
+
+Sexy documentation
+-Two programmers are discussing:
+-You now, documentation is like sex...
+-What do you mean by that?!
+-Well, when it's good, it's very good... But, when it's bad - it's better than nothing.
+
+
