@@ -34,4 +34,7 @@ Python Haiku
      Unexpected Indent
      In line 22
 
-
+Coffe Complete
+ Two programmers are discussing:
+  - I have bought a new coffee-machine... And it's programmable!
+  - Oh, yeah? Is it Turing-complete?
