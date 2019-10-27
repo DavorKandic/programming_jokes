@@ -38,3 +38,7 @@ Coffe Complete
  Two programmers are discussing:
   - I have bought a new coffee-machine... And it's programmable!
   - Oh, yeah? Is it Turing-complete?
+  
+ ***AND NOW -> C# JOKE!***
+ -Why Java developers wear glasses?
+ -Because they can't C sharp!
